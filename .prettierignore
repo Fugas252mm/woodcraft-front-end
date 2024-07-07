@@ -1,0 +1,6 @@
+# Ignore artifacts:
+publick
+build
+coverage
+node_modules/
+dist/
